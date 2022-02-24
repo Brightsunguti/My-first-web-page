@@ -3,10 +3,10 @@
 ## Table of Contents
 + [Description](#Description)
  
- + [Installation requirements](#Installation requirements)
- + [Technology used](#Technology used)
+ + [Installation requirements] (#Installation requirements)
+ + [Technology used] (#Technology used)
  + [Reference](# Reference)
- + [Authors Info](#Authors Info)
+ + [Authors Info] (#Authors Info)
  ## Description
  This is a simple First HTML page
  ## Installation requirements
